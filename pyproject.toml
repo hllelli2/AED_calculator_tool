@@ -6,9 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
 authors = [{ name = "Mark W", email = "hlmwhite@liverpool.ac.uk" }]
-dependencies = [
-  # dependencies go here
-]
+dependencies = ["gffpandas", "pandas"]
 
 [dependency-groups]
 dev = [
