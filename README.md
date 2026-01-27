@@ -7,5 +7,8 @@ Gene models can be assessed using mapped transcript or protein evidence using a 
 This can be a useful measure to assess gene predictor accuracy. Here you can find a simple tool for calculating AED per gene model, given some evidence.
 
 
+# next steps
 
+1. have it parse a multi gene gff
+2. identification of the transcripts at the same loci with gffcompare
 
